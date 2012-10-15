@@ -1,0 +1,7 @@
+C:\Git Test\Hello Git Mvc\Hello Git Mvc\bin\Hello Git Mvc.dll
+C:\Git Test\Hello Git Mvc\Hello Git Mvc\bin\Hello Git Mvc.pdb
+C:\Git Test\Hello Git Mvc\Hello Git Mvc\bin\EntityFramework.dll
+C:\Git Test\Hello Git Mvc\Hello Git Mvc\bin\EntityFramework.xml
+C:\Git Test\Hello Git Mvc\Hello Git Mvc\obj\Debug\Hello Git Mvc.csprojResolveAssemblyReference.cache
+C:\Git Test\Hello Git Mvc\Hello Git Mvc\obj\Debug\Hello Git Mvc.dll
+C:\Git Test\Hello Git Mvc\Hello Git Mvc\obj\Debug\Hello Git Mvc.pdb
